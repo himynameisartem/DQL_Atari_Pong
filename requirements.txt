@@ -1,0 +1,6 @@
+torch
+torchvision
+gymnasium[atari,accept-rom-license]
+opencv-python
+matplotlib
+imageio
